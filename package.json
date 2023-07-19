@@ -9,7 +9,10 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@aws-amplify/ui-react": "^5.0.4",
+    "@aws-sdk/client-cognito-identity-provider": "^3.370.0",
     "autoprefixer": "10.4.14",
+    "aws-amplify": "^5.3.4",
     "eslint": "8.45.0",
     "eslint-config-next": "13.4.10",
     "next": "13.4.10",
